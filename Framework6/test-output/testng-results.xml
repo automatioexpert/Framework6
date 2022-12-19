@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="81" started-at="2022-02-08T09:34:05 IST" finished-at="2022-02-08T09:34:05 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="81" started-at="2022-02-08T09:34:05 IST" finished-at="2022-02-08T09:34:05 IST">
+      <class name="com.learnautomation.testcases.SampleMukesh">
+        <test-method status="PASS" signature="test1(java.lang.String,java.lang.String)[pri:0, instance:com.learnautomation.testcases.SampleMukesh@10d59286]" name="test1" duration-ms="12" started-at="2022-02-08T09:34:05 IST" finished-at="2022-02-08T09:34:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sampleurl]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.learnautomation.testcases.SampleMukesh -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
